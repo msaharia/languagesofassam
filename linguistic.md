@@ -1,3 +1,28 @@
+This is an ever-growing list of resources related to languages spoken in Assam. Please submit links if you think it is suitable for this list.
+
+<!-- TOC -->
+
+- [Online Dictionary](#online-dictionary)
+- [Dictionary Apps](#dictionary-apps)
+    - [Online tools](#online-tools)
+    - [Android](#android)
+    - [iOS](#ios)
+    - [Windows](#windows)
+- [Assamese Spell-Checker](#assamese-spell-checker)
+- [Assamese Linguistic Datasets](#assamese-linguistic-datasets)
+- [Assamese Linguistic Research Publications](#assamese-linguistic-research-publications)
+    - [2017](#2017)
+    - [2016](#2016)
+    - [2015](#2015)
+    - [2014](#2014)
+    - [2013](#2013)
+    - [2012](#2012)
+    - [2011](#2011)
+- [Researchers to follow](#researchers-to-follow)
+
+<!-- /TOC -->
+
+
 # Online Dictionary
 
 * www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
