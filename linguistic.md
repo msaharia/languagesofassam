@@ -32,6 +32,7 @@ No good keyboard is currently available. This is the closest.
 
 * [Assamese online handwritten digit recognition system using hidden Markov models, IITG](https://sci-hub.cc/https://dl.acm.org/citation.cfm?id=2432573)
 ## 2011
+* [A First Step Towards Parsing of Assamese Text, Tezpur University and UCCS](http://www.cs.uccs.edu/~jkalita/papers/2010/SahariaNavaPondicherry2010.pdf)
 
 # Researchers to follow
 
