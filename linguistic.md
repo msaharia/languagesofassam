@@ -30,7 +30,7 @@ No good keyboard is currently available. This is the closest.
 ## 2013
 ## 2012
 
-* [Assamese online handwritten digit recognition system using hidden Markov models](https://sci-hub.cc/https://dl.acm.org/citation.cfm?id=2432573)
+* [Assamese online handwritten digit recognition system using hidden Markov models, IITG](https://sci-hub.cc/https://dl.acm.org/citation.cfm?id=2432573)
 ## 2011
 
 # Researchers to follow
