@@ -47,7 +47,7 @@ No good keyboard is currently available. This is the closest.
 # Dictionary Tools
 
 ## Online
-* www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
+* [XOBDO.ORG](www.xobdo.org) (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
 ## Apps
 
 # Assamese Spell-Checker
