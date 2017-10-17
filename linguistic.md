@@ -66,13 +66,16 @@ No good keyboard is currently available. This is the closest.
 ## 2014
 ## 2013
 ## 2012
-
+* [A Novel Approach for Document Classification using Assamese WordNet (Gauhati University)](https://s3.amazonaws.com/academia.edu.documents/31907561/gwc2012.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508258792&Signature=gXmEeclvRbXIDsDAH2qf3WoUKFA%3D&response-content-disposition=inline%3B%20filename%3DA_Novel_Approach_for_Document_Classifica.pdf#page=329)
+* [An Extractive Approach of Text Summarization of Assamese using WordNet (Tezpur University)](publications/gwc_12_word.pdf)
 * [Assamese online handwritten digit recognition system using hidden Markov models (IITG)](https://goo.gl/Vjd3p4)
-* [A First Step Towards Parsing of Assamese Text](publications/SahariaNavaPondicherry2010.pdf)
+* [A First Step Towards Parsing of Assamese Text (Tezpur University and UCCS)](publications/SahariaNavaPondicherry2010.pdf)
 ## 2011
-* [A First Step Towards Parsing of Assamese Text (Tezpur University and UCCS)](https://goo.gl/EPFRso)
+* [Development of Assamese WordNet (Tezpur University)](publications/nwdaa_11.pdf)
+* [A Dictionary Based POS Tagger for Morphologically Rich Language (Tezpur University and UCCS)](publications/SahariaNavaTU2011.pdf)
+* [Part of Speech Tagger for Assamese Text (Tezpur University and UCCS)](https://goo.gl/EPFRso)
 ## 2010
-* [A Suffix-Based Noun and Verb Classifier for an Inflectional Language]http://ieeexplore.ieee.org/abstract/document/5681558/()
+* [A Suffix-Based Noun and Verb Classifier for an Inflectional Language](http://ieeexplore.ieee.org/abstract/document/5681558/)
 
 # Researchers to follow
 
