@@ -1,6 +1,6 @@
 # Online Dictionary
 
-www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
+* www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
 
 # Dictionary Apps
 ## Online tools
@@ -23,7 +23,7 @@ No good keyboard is currently available. This is the closest.
 
 # Assamese Spell-Checker
 
-[Xobdo Banan-Litikai](http://www.xobdo.org/litikai2/) - Amazing tool
+* [Xobdo Banan-Litikai](http://www.xobdo.org/litikai2/) - Amazing tool
 
 # Assamese Linguistic Datasets
 
