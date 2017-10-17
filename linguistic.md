@@ -21,6 +21,9 @@ No good keyboard is currently available. This is the closest.
 
 ## Windows
 
+# Assamese Spell-Checker
+
+[Xobdo Banan-Litikai](http://www.xobdo.org/litikai2/) - Amazing tool
 
 # Assamese Linguistic Datasets
 
