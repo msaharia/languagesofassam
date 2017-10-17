@@ -66,9 +66,10 @@ No good keyboard is currently available. This is the closest.
 ## 2014
 ## 2013
 ## 2012
+* [Analysis and Evaluation of Stemming Algorithms: A case Study with Assamese (Tezpur University and UCCS)](publications/saharia2012.pdf)
 * [A Novel Approach for Document Classification using Assamese WordNet (Gauhati University)](https://s3.amazonaws.com/academia.edu.documents/31907561/gwc2012.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508258792&Signature=gXmEeclvRbXIDsDAH2qf3WoUKFA%3D&response-content-disposition=inline%3B%20filename%3DA_Novel_Approach_for_Document_Classifica.pdf#page=329)
 * [An Extractive Approach of Text Summarization of Assamese using WordNet (Tezpur University)](publications/gwc_12_word.pdf)
-* [Assamese online handwritten digit recognition system using hidden Markov models (IITG)](https://goo.gl/Vjd3p4)
+* [Assamese online handwritten digit recognition system using hidden Markov models (IIT Guwahati)](https://goo.gl/Vjd3p4)
 * [A First Step Towards Parsing of Assamese Text (Tezpur University and UCCS)](publications/SahariaNavaPondicherry2010.pdf)
 ## 2011
 * [Development of Assamese WordNet (Tezpur University)](publications/nwdaa_11.pdf)
