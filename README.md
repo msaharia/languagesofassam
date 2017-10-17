@@ -1,2 +1,2 @@
-# assamresources
+# Assam Resources
 A repository of links 
