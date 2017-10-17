@@ -2,12 +2,14 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
 
 <!-- TOC -->
 
-- [Online Dictionary](#online-dictionary)
-- [Dictionary Apps](#dictionary-apps)
-    - [Online tools](#online-tools)
+- [Writing Tools](#writing-tools)
+    - [Web](#web)
     - [Android](#android)
     - [iOS](#ios)
     - [Windows](#windows)
+- [Dictionary Tools](#dictionary-tools)
+    - [Online](#online)
+    - [Apps](#apps)
 - [Assamese Spell-Checker](#assamese-spell-checker)
 - [Assamese Linguistic Datasets](#assamese-linguistic-datasets)
 - [Assamese Linguistic Research Publications](#assamese-linguistic-research-publications)
@@ -23,12 +25,8 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
 <!-- /TOC -->
 
 
-# Online Dictionary
-
-* www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
-
-# Dictionary Apps
-## Online tools
+# Writing Tools
+## Web
 * [Lipikaar Online Assamese Typing](http://www.lipikaar.com/online-editor/assamese-typing) - Recommended
 * [Rodali Online Typing](http://www.sltdassam.com/rodalionline.html) - Recommended
 * [Assam Typing](http://assamese.indiatyping.com/)
@@ -45,6 +43,12 @@ No good keyboard is currently available. This is the closest.
 * [Lachit Keyboard](https://itunes.apple.com/us/app/lachit/id909360648?mt=8)
 
 ## Windows
+
+# Dictionary Tools
+
+## Online
+* www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
+## Apps
 
 # Assamese Spell-Checker
 
