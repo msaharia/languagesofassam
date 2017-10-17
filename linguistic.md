@@ -4,8 +4,10 @@ www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Miz
 
 # Dictionary Apps
 ## Online tools
-* [Lipikaar Online Assamese Typing](http://www.lipikaar.com/online-editor/assamese-typing)
-* [Rodali Online Typing](http://www.sltdassam.com/rodalionline.html)
+* [Lipikaar Online Assamese Typing](http://www.lipikaar.com/online-editor/assamese-typing) - Recommended
+* [Rodali Online Typing](http://www.sltdassam.com/rodalionline.html) - Recommended
+* [Assam Typing](http://assamese.indiatyping.com/)
+* [Assamese Writing Tool by OnlineSivsagar](http://onlinesivasagar.com/tools/assamese_writer.html)
 
 ## Android
 * [Panini Keyboard](https://play.google.com/store/apps/details?id=com.paninikeypad.assamese&hl=en) 
