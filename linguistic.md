@@ -21,8 +21,17 @@ No good keyboard is currently available. This is the closest.
 # Assamese Linguistic Datasets
 
 
-# Assamese Linguistic Research
+# Assamese Linguistic Research Publications
 
+## 2017
+## 2016
+## 2015
+## 2014
+## 2013
+## 2012
+
+* [Assamese online handwritten digit recognition system using hidden Markov models](https://sci-hub.cc/https://dl.acm.org/citation.cfm?id=2432573)
+## 2011
 
 # Researchers to follow
 
