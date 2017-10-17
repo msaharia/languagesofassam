@@ -20,6 +20,7 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
     - [2013](#2013)
     - [2012](#2012)
     - [2011](#2011)
+    - [2010](#2010)
 - [Researchers to follow](#researchers-to-follow)
 
 <!-- /TOC -->
@@ -66,9 +67,12 @@ No good keyboard is currently available. This is the closest.
 ## 2013
 ## 2012
 
-* [Assamese online handwritten digit recognition system using hidden Markov models (IITG)](https://sci-hub.cc/https://dl.acm.org/citation.cfm?id=2432573)
+* [Assamese online handwritten digit recognition system using hidden Markov models (IITG)](https://goo.gl/Vjd3p4)
+* [A First Step Towards Parsing of Assamese Text](publications/SahariaNavaPondicherry2010.pdf)
 ## 2011
-* [A First Step Towards Parsing of Assamese Text (Tezpur University and UCCS)](http://www.cs.uccs.edu/~jkalita/papers/2010/SahariaNavaPondicherry2010.pdf)
+* [A First Step Towards Parsing of Assamese Text (Tezpur University and UCCS)](https://goo.gl/EPFRso)
+## 2010
+* [A Suffix-Based Noun and Verb Classifier for an Inflectional Language]http://ieeexplore.ieee.org/abstract/document/5681558/()
 
 # Researchers to follow
 
