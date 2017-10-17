@@ -12,6 +12,9 @@ www.xobdo.org (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Miz
 
 ## iOS
 
+No good keyboard is currently available. This is the closest.
+* [Lachit Keyboard](https://itunes.apple.com/us/app/lachit/id909360648?mt=8)
+
 ## Windows
 
 
