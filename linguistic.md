@@ -83,7 +83,7 @@ No good keyboard is currently available. This is the closest.
 * [A Suffix-Based Noun and Verb Classifier for an Inflectional Language](http://ieeexplore.ieee.org/abstract/document/5681558/)
 
 # Bodo Linguistic Research Publications
-
+* [Some Aspects of the Tonal Phonology of Bodo](http://www.linguistlist.org/pubs/diss/browse-diss-action.cfm?DissID=9381&RequestTimeout=500)
 # Mising Linguistic Research Publications
 
 # Karbi Linguistic Research Publications
