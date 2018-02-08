@@ -1,4 +1,4 @@
-This is an ever-growing list of resources related to languages spoken in Assam. Please submit links if you think it is suitable for this list.
+This is an ever-growing list of resources related to languages spoken in Assam. Please submit links if you think it is suitable for this list. Also, report dead links through issues or by directly contacting maintainers.
 
 <!-- TOC -->
 
