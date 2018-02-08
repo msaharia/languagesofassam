@@ -21,6 +21,9 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
     - [2012](#2012)
     - [2011](#2011)
     - [2010](#2010)
+- [Bodo Linguistic Research Publications](#bodo-linguistic-research-publications)
+- [Mising Linguistic Research Publications](#mising-linguistic-research-publications)
+- [Karbi Linguistic Research Publications](#karbi-linguistic-research-publications)
 - [Researchers to follow](#researchers-to-follow)
 - [Resources we need](#resources-we-need)
 
@@ -78,6 +81,12 @@ No good keyboard is currently available. This is the closest.
 * [Part of Speech Tagger for Assamese Text (Tezpur University and UCCS)](https://goo.gl/EPFRso)
 ## 2010
 * [A Suffix-Based Noun and Verb Classifier for an Inflectional Language](http://ieeexplore.ieee.org/abstract/document/5681558/)
+
+# Bodo Linguistic Research Publications
+
+# Mising Linguistic Research Publications
+
+# Karbi Linguistic Research Publications
 
 # Researchers to follow
 
