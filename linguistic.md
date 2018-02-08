@@ -22,6 +22,7 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
     - [2011](#2011)
     - [2010](#2010)
 - [Researchers to follow](#researchers-to-follow)
+- [Resources we need](#resources-we-need)
 
 <!-- /TOC -->
 
@@ -79,6 +80,9 @@ No good keyboard is currently available. This is the closest.
 * [A Suffix-Based Noun and Verb Classifier for an Inflectional Language](http://ieeexplore.ieee.org/abstract/document/5681558/)
 
 # Researchers to follow
+
+# Resources we need
+* Grade-wise high-frequency word list (say, 1000) in indigeneous languages. Example: [BUSD Grade Level Academic Vocabulary](http://www.berkeleyschools.net/wp-content/uploads/2013/05/BUSD_Academic_Vocabulary.pdf)
 
 
 
