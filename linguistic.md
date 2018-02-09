@@ -24,6 +24,8 @@ This is an ever-growing list of resources related to languages spoken in Assam. 
 - [Bodo Linguistic Research Publications](#bodo-linguistic-research-publications)
 - [Mising Linguistic Research Publications](#mising-linguistic-research-publications)
 - [Karbi Linguistic Research Publications](#karbi-linguistic-research-publications)
+- [Online Literary Publications of repute](#online-literary-publications-of-repute)
+- [Online Communities for Literature](#online-communities-for-literature)
 - [Researchers to follow](#researchers-to-follow)
 - [Resources we need](#resources-we-need)
 
@@ -87,6 +89,14 @@ No good keyboard is currently available. This is the closest.
 # Mising Linguistic Research Publications
 
 # Karbi Linguistic Research Publications
+
+# Online Literary Publications of repute
+* [Xahitya.org](http://www.xahitya.org/)
+
+# Online Communities for Literature
+* [Assamese - Oxomiyat Kotha Botora](https://www.facebook.com/groups/axomiyakothabotora)
+* [Assamese Wikipedia Group](https://www.facebook.com/groups/assamwikigroup/)
+* [Xobdo.ord Discussion Group](https://www.facebook.com/groups/xobdo.org/)
 
 # Researchers to follow
 
