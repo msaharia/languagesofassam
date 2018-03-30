@@ -96,7 +96,7 @@ No good keyboard is currently available. This is the closest.
 # Online Communities for Literature
 * [Assamese - Oxomiyat Kotha Botora](https://www.facebook.com/groups/axomiyakothabotora)
 * [Assamese Wikipedia Group](https://www.facebook.com/groups/assamwikigroup/)
-* [Xobdo.ord Discussion Group](https://www.facebook.com/groups/xobdo.org/)
+* [Xobdo.org Discussion Group](https://www.facebook.com/groups/xobdo.org/)
 
 # Researchers to follow
 
