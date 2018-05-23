@@ -54,12 +54,12 @@ No good keyboard is currently available. This is the closest.
 # Dictionary Tools
 
 ## Online
-* [XOBDO.ORG](www.xobdo.org) (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
+* [XOBDO.ORG](www.xobdo.in) (For Assamese, Bodo, Mising, Karbi, Dimasa, Khasi, Meeteilon, Mizo, Hmar and other languages of the North-East India)
 ## Apps
 
 # Assamese Spell-Checker
 
-* [Xobdo Banan-Litikai](http://www.xobdo.org/litikai2/) - Amazing tool
+* [Xobdo Banan-Litikai](http://www.xobdo.org/litikai/) - Amazing tool
 
 # Assamese Linguistic Datasets
 
